@@ -1,0 +1,29 @@
+.summaryContainer {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: flex-start;
+    background-color: #66AEC0;
+    color: white;
+    padding-bottom: 0px;
+
+}
+
+.summaryContent {
+    margin-left: 2rem;
+    text-align: left;
+}
+
+img {
+    width: 25vw;
+    height: 30vh;
+    position: relative;
+    left: 3rem;
+    bottom: 8rem;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.summary {
+    width: 60vw;
+    text-align: start;
+}

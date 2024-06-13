@@ -1,0 +1,36 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.nameRole {
+
+    color: #66AEC0;
+    margin-left: 2rem;
+    /* position: fixed; */
+    /* right: 1rem; */
+
+}
+
+.nameRole h4 {
+    position: relative;
+    /* right: 0.5rem; */
+    font-size: 1.5em;
+    font-weight: 300;
+}
+
+.nameRole h1 {
+    font-size: 2em;
+}
+
+
+.coloredBox {
+    background-color: #66AEC0;
+    padding: 3rem 4rem;
+    margin-bottom: 2rem;
+    margin-right: 10rem;
+    width: 10px;
+    height: 10px;
+
+}
